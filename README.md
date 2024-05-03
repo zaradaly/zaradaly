@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm MohamedAli Zarraa</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaradaly&label=Profile%20views&color=0e75b6&style=flat" alt="zaradaly" /> </p>
+
 - 🔭 I’m currently working on **Delivery**
 
 - 👨‍💻 All of my projects are available at [https://ZaraDaly.com/links](https://ZaraDaly.com/links)
