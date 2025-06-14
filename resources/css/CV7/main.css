@@ -25,7 +25,7 @@
 
 /*! SHINDA v7.0.1 by SHINDA Team */
 .info__2debe::after {
-    content: "Modded by SHINDA";
+    content: "Modded by SHINDA 1";
     color: var(--text-muted);
     font-size: 12px;
     line-height: 1.3333333333;
@@ -34,7 +34,7 @@
 }
 
 .visual-refresh:not(.platform-osx) .leading_c38106::before {
-    content: "Modded by SHINDA";
+    content: "Modded by SHINDA 2";
     position: static;
     margin-left: 10px;
     font-size: 16px;
