@@ -11,7 +11,7 @@
 */
 
 /* import theme modules */
-@import url('https://raw.githubusercontent.com/zaradaly/zaradaly/refs/heads/main/vencord/css/midnight.css');
+@import url('./midnight.css');
 
 body {
     /* font, change to '' for default discord font */
@@ -151,3 +151,120 @@ body {
     --purple-4: hsl(261, 65%, 67%);
     --purple-5: hsl(261, 55%, 61%);
 }
+
+/* Zara & SHINDA updates */
+.header_b3f026 {
+    color: var(--blue-2);
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.header_b3f026::before {
+    content: "";
+    height: 2px;
+    flex-grow: 1;
+    background: linear-gradient(to left, var(--blue-2) 50%, transparent);
+    margin-right: 5px
+}
+
+.header_b3f026::after {
+    content: "";
+    height: 2px;
+    flex-grow: 1;
+    background: linear-gradient(to right, var(--blue-2) 50%, transparent);
+    margin-left: 5px
+}
+
+.visual-refresh .wrapperCommon__29444 .mainContent__29444 .name__29444 {
+    flex: 1
+}
+
+.visual-refresh .name__29444 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--blue-2);
+    font-weight: 700
+}
+
+.visual-refresh .name__29444::before {
+    content: "";
+    height: 2px;
+    flex-grow: 1;
+    transition: all .3s ease-in-out;
+    background: linear-gradient(to left, var(--blue-2) 50%, transparent);
+    margin-right: 5px
+}
+
+.visual-refresh .name__29444::after {
+    content: "";
+    height: 2px;
+    flex-grow: 1;
+    transition: all .3s ease-in-out;
+    background: linear-gradient(to right, var(--blue-2) 50%, transparent);
+    margin-left: 5px
+}
+
+.visual-refresh .children__29444 {
+    margin-left: 6px
+}
+
+.visual-refresh .addButtonIcon__29444 {
+    color: var(--blue-2)
+}
+
+.collapsed__29444 .name__29444::before,
+.collapsed__29444 .name__29444::after {
+    flex-grow: 0
+}
+
+.wrapper__29444.muted__29444 :is(.name__29444, .addButtonIcon__29444) {
+    color: var(--blue-2);
+    opacity: .5
+}
+
+.wrapper__29444:is(.wrapper__29444, .muted__29444):hover .name__29444 {
+    color: var(--blue-1)
+}
+
+.wrapper__29444:is(.wrapper__29444, .muted__29444):hover .name__29444::before {
+    background: linear-gradient(to left, var(--blue-1) 50%, transparent)
+}
+
+.wrapper__29444:is(.wrapper__29444, .muted__29444):hover .name__29444::after {
+    background: linear-gradient(to right, var(--blue-1) 50%, transparent)
+}
+
+.wrapper__29444:is(.wrapper__29444, .muted__29444):hover .addButtonIcon__29444 {
+    color: var(--blue-1)
+}
+
+.icon__29444 {
+    display: none
+}
+
+.voiceUser__07f91 .avatarSpeaking__07f91 {
+    box-shadow: 0 0 0 2px var(--blue-4), inset 0 0 3px rgba(0, 0, 0, .5);
+    position: relative;
+    transition: all .1s ease-in-out
+}
+
+.voiceUser__07f91 .avatarSpeaking__07f91:after {
+    content: "";
+    top: -2px;
+    bottom: -2px;
+    width: 150px;
+    position: absolute;
+    height: 1.8em;
+    background: linear-gradient(to right, var(--blue-4) 10%, transparent);
+    opacity: .5;
+    transition: all .1s ease-in-out, width .15s ease-in-out;
+    pointer-events: none;
+    z-index: -1;
+    border-radius: 999px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+/* Zara & SHINDA updates */
