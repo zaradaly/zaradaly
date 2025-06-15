@@ -11,7 +11,7 @@
 */
 
 /* import theme modules */
-@import url('./midnight.css');
+@import url('https://raw.githubusercontent.com/zaradaly/zaradaly/refs/heads/main/vencord/css/midnight.css');
 
 body {
     /* font, change to '' for default discord font */
