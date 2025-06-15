@@ -11,7 +11,7 @@
 */
 
 /* import theme modules */
-@import url('./midnight.css');
+@import url('https://raw.githubusercontent.com/zaradaly/zaradaly/refs/heads/main/vencord/css/midnight.css');
 
 body {
     /* font, change to '' for default discord font */
@@ -54,7 +54,7 @@ body {
     /* background image options */
     --background-image: on; /* off: no background image, on: enable background image (must set url variable below) */
     /* --background-image-url: url('https://raw.githubusercontent.com/zaradaly/zaradaly/refs/heads/main/resources/wukongWallpaperBlur5.jpg'); */
-    --background-image-url: url('./Wukonglive.gif');
+    --background-image-url: url('https://raw.githubusercontent.com/zaradaly/zaradaly/refs/heads/main/resources/Wukonglive.gif');
 
     /* transparency/blur options */
     /* NOTE: TO USE TRANSPARENCY/BLUR, YOU MUST HAVE TRANSPARENT BG COLORS. FOR EXAMPLE: --bg-4: hsla(220, 15%, 10%, 0.7); */
