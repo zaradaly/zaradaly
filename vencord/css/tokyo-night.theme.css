@@ -153,6 +153,10 @@ body {
 }
 
 /* Zara & SHINDA updates */
+.visual-refresh .root_bfe55a {
+    background: #ff000000;
+}
+
 .header_b3f026 {
     color: var(--blue-2);
     display: flex;
