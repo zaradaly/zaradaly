@@ -26,7 +26,7 @@
 
 ```bash
 🧠 Languages:   🐘 PHP, 🟨 JavaScript, 🌐 Node.js, ☕ Java, ➕ C++, 💻 C#, 📝 HTML, 🎨 CSS, 🗄️ SQL  
-🧰 Frameworks:  📱 Android SDK, 🖥️ ASP.NET, ⚙️ WAMP, 🛠️ QT, 🚀 Laravel (basic)  
+🧰 Frameworks:  📱 Android SDK, 🖥️ ASP.NET, ⚙️ WAMP, 🛠️ QT, 🚀 Laravel , 🔥 Codeigniter
 🔧 Tools:       🔍 Postman, 🐬 MySQL Server, 🧪 EasyPHP, 🐧 VPS Admin, 🔄 Git  
 🎨 Design:      🖌️ Photoshop, 🎨 Illustrator  
 ```
