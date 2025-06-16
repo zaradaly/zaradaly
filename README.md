@@ -30,10 +30,9 @@
 🔧 Tools:       🔍 Postman, 🐬 MySQL Server, 🧪 EasyPHP, 🐧 VPS Admin, 🔄 Git  
 🎨 Design:      🖌️ Photoshop, 🎨 Illustrator  
 ```
+## 💼 Work Experience
 
 ```bash
-💼 Work Experience
-
 🚚 DayTruck (Remote – Tunisia)
 PHP Full Stack Developer (2023 – Present)
 ▸ Logistics & delivery system | Google Maps API
@@ -53,30 +52,32 @@ Developer & VPS Admin (2018 – 2020)
 ▸ DNS, CDN, and server security configuration
 ```
 
+## 🛠️ Projects
+
 ```bash
-🛠️ Projects
 
-    📱 Android Number Game App
+📱 Android Number Game App
 
-    📍 Location Alarm using Google APIs
+📍 Location Alarm using Google APIs
 
-    🧠 Face & Gender Recognition System (🏆 Young Innovators – Business Conn. 2014)
+🧠 Face & Gender Recognition System (🏆 Young Innovators – Business Conn. 2014)
 
-    🤖 Robotics: Object Detection + Drone Autonomy
+🤖 Robotics: Object Detection + Drone Autonomy
 
-    🎙️ Speech Recognition System
+🎙️ Speech Recognition System
 ```
 
+## 📚 Education
+
 ```bash
-📚 Education
 
-    🎓 Honours in Computer Science – Wits University, Johannesburg (2014)
+🎓 Honours in Computer Science – Wits University, Johannesburg (2014)
 
-    🎓 Higher Diploma in Computer Science – Wits University (2013)
+🎓 Higher Diploma in Computer Science – Wits University (2013)
 
-    🎓 National Diploma in IT & Software – ESTI Tunis (2008–2011)
+🎓 National Diploma in IT & Software – ESTI Tunis (2008–2011)
 
-    🎓 Matric – Tunisia (2008)
+🎓 Matric – Tunisia (2008)
 ```
 
 ```bash
@@ -87,9 +88,9 @@ Developer & VPS Admin (2018 – 2020)
 | 🇬🇧 English | Fluent (IELTS C1) |
 ```
 
-```bash
-🧠 Interests
+## 🧠 Interests
 
+```bash
 🎮 Gaming & Tech
 📸 Photography
 🎶 Music
