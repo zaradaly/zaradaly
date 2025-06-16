@@ -25,10 +25,10 @@
 ## 🔧 Tech Stack
 
 ```bash
-Languages:   PHP, JavaScript, Node.js, Java, C++, C#, HTML, CSS, SQL  
-Frameworks:  Android SDK, ASP.NET, WAMP, QT, Laravel (basic)  
-Tools:       Postman, Git, MySQL Server, EasyPHP, VPS Admin  
-Design:      Photoshop, Illustrator  
+🧠 Languages:   🐘 PHP, 🟨 JavaScript, 🌐 Node.js, ☕ Java, ➕ C++, 💻 C#, 📝 HTML, 🎨 CSS, 🗄️ SQL  
+🧰 Frameworks:  📱 Android SDK, 🖥️ ASP.NET, ⚙️ WAMP, 🛠️ QT, 🚀 Laravel (basic)  
+🔧 Tools:       🔍 Postman, 🐬 MySQL Server, 🧪 EasyPHP, 🐧 VPS Admin, 🔄 Git  
+🎨 Design:      🖌️ Photoshop, 🎨 Illustrator  
 ```
 
 ```bash
