@@ -1214,7 +1214,7 @@ body {
             color: var(--red-4);
         }
         .contentWrapper__08434 ::-webkit-scrollbar-thumb /* gif picker scrollbar */ {
-            background-color: var(--bg-1);
+            background-color: var(--text-2);
         }
 
         .circleIconButton__5bc7e /* new server button */ {
