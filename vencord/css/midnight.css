@@ -966,9 +966,9 @@ body {
 
         --redesign-input-control-selected: var(--accent-2);
 
-        --scrollbar-auto-thumb: var(--bg-3);
+        --scrollbar-auto-thumb: var(--text-3);
         --scrollbar-auto-track: transparent;
-        --scrollbar-thin-thumb: var(--bg-3);
+        --scrollbar-thin-thumb: var(--text-3);
         --scrollbar-thin-track: transparent;
 
         --white: var(--text-0);
