@@ -55,28 +55,19 @@ Developer & VPS Admin (2018 – 2020)
 ## 🛠️ Projects
 
 ```bash
-
 📱 Android Number Game App
-
 📍 Location Alarm using Google APIs
-
 🧠 Face & Gender Recognition System (🏆 Young Innovators – Business Conn. 2014)
-
 🤖 Robotics: Object Detection + Drone Autonomy
-
 🎙️ Speech Recognition System
 ```
 
 ## 📚 Education
 
 ```bash
-
 🎓 Honours in Computer Science – Wits University, Johannesburg (2014)
-
 🎓 Higher Diploma in Computer Science – Wits University (2013)
-
 🎓 National Diploma in IT & Software – ESTI Tunis (2008–2011)
-
 🎓 Matric – Tunisia (2008)
 ```
 
@@ -91,20 +82,15 @@ Developer & VPS Admin (2018 – 2020)
 ## 🧠 Services I Offer
 
 ```bash
-💻 Web Design | 🎨 Graphic Design | 🔍 SEO Optimization | 🔗 Social Media Management | ✍️ Content Writing | 📱 App Development  
-🛒 E-commerce Solutions | 📣 Digital Marketing | 🆔 Branding & Identity | 🎧 IT Support | 🎥 Video Editing | 📷 Photography  
-⚖️ Legal Consulting | 📈 Financial Consulting | 🌐 Translation Services
+💻 Web Design | 🎨 Graphic Design | 🔍 SEO Optimization | 🔗 Social Media Management | ✍️ Content Writing | 📱 App Development
+🛒 E-commerce Solutions | 📣 Digital Marketing | 🎧 IT Support | 🌐 Translation Services
 ```
 
 
 ## 🧠 Interests
 
 ```bash
-🎮 Gaming & Tech
-📸 Photography
-🎶 Music
-⚽ Soccer
-💻 UI/UX Design
+🎮 Gaming & Tech | 📸 Photography | 🎶 Music | ⚽ Soccer | 💻 UI/UX Design
 ```
 
 <br><br>
