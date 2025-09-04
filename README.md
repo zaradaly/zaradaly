@@ -88,6 +88,13 @@ Developer & VPS Admin (2018 – 2020)
 | 🇬🇧 English | Fluent (IELTS C1) |
 ```
 
+## 🧠 Services I Offer
+
+```bash
+💻 Web Design &nbsp; | &nbsp; 🎨 Graphic Design &nbsp; | &nbsp; 🔍 SEO Optimization &nbsp; | &nbsp; 🔗 Social Media Management &nbsp; | &nbsp; ✍️ Content Writing &nbsp; | &nbsp; 📱 App Development &nbsp; | &nbsp; 🛒 E-commerce Solutions &nbsp; | &nbsp; 📣 Digital Marketing &nbsp; | &nbsp; 🆔 Branding & Identity &nbsp; | &nbsp; 🎧 IT Support &nbsp; | &nbsp; 🎥 Video Editing &nbsp; | &nbsp; 📷 Photography &nbsp; | &nbsp; ⚖️ Legal Consulting &nbsp; | &nbsp; 📈 Financial Consulting &nbsp; | &nbsp; 🌐 Translation Services
+```
+
+
 ## 🧠 Interests
 
 ```bash
