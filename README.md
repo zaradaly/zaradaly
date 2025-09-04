@@ -91,9 +91,9 @@ Developer & VPS Admin (2018 – 2020)
 ## 🧠 Services I Offer
 
 ```bash
-💻 Web Design &nbsp;|&nbsp; 🎨 Graphic Design &nbsp;|&nbsp; 🔍 SEO Optimization &nbsp;|&nbsp; 🔗 Social Media Management &nbsp;|&nbsp; ✍️ Content Writing &nbsp;|&nbsp; 📱 App Development  
-🛒 E-commerce Solutions &nbsp;|&nbsp; 📣 Digital Marketing &nbsp;|&nbsp; 🆔 Branding & Identity &nbsp;|&nbsp; 🎧 IT Support &nbsp;|&nbsp; 🎥 Video Editing &nbsp;|&nbsp; 📷 Photography  
-⚖️ Legal Consulting &nbsp;|&nbsp; 📈 Financial Consulting &nbsp;|&nbsp; 🌐 Translation Services
+💻 Web Design | 🎨 Graphic Design | 🔍 SEO Optimization | 🔗 Social Media Management | ✍️ Content Writing | 📱 App Development  
+🛒 E-commerce Solutions | 📣 Digital Marketing | 🆔 Branding & Identity | 🎧 IT Support | 🎥 Video Editing | 📷 Photography  
+⚖️ Legal Consulting | 📈 Financial Consulting | 🌐 Translation Services
 ```
 
 
